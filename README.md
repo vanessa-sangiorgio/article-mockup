@@ -1,4 +1,4 @@
-# article-mokup
+# article-mockup
 I've replied a article mockup
 
 ##Instruction
